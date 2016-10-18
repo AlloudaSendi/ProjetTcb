@@ -13,6 +13,7 @@ import com.tcb.consuming.dao.FluxDao;
 
 public class ConsumeData {
 	private static final CharSequence FLUX_1 = "flux1";
+	private static final CharSequence FLUX_2 = "flux2";
 	public String key = null ;
 	public String value = null ;
 	public String getKey() {

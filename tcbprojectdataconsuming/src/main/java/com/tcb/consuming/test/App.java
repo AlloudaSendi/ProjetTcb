@@ -20,8 +20,8 @@ public class App
     {
 	
     ConsumeData consomer = new ConsumeData();
-    Table tablename=  CreateBd.createHbase("flus");
-    consomer.Consume("lllll", tablename,"gfdd");
+    Table tablename=  CreateBd.createHbase("fluxar");
+    consomer.Consume("zdi", tablename,"gfdd");
     
     
    
